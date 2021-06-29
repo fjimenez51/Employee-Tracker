@@ -50,7 +50,7 @@
 
  ## Links
  
-  * Application URL: (https://fjimenez51.github.io/Employee-Tracker/)
+  * Application URL: ( https://fjimenez51.github.io/Employee-Tracker/)
   * Github Repository URL: (https://github.com/fjimenez51/Employee-Tracker)
 
 ## License
