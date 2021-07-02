@@ -36,7 +36,7 @@
 ## Usage
 
   Program is run by executing "node app.js"
-  The user is brought to a main menu with a list of commands that can be executed. Some options have further choices and prompts the user to interact with the system.
+  The user is brought to a main menu with a list of commands that can be executed. 
 
   ![Full Demo](./assets/trackerdemo.gif?raw=true "Full Demo Gif")
 
